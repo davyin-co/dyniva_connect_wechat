@@ -1,0 +1,7 @@
+name: Dyniva Connect Wechat 
+type: module
+description: Wechat connect and message process base function.
+core: 8.x
+package: Dyniva
+dependencies:
+  - dyniva_connect

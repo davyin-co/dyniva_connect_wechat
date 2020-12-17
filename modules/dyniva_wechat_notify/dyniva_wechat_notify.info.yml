@@ -1,0 +1,8 @@
+name: Dyniva Wechat Notify
+type: module
+description: Wechat message notify.
+core: 8.x
+package: Dyniva
+dependencies:
+  - message
+  - dyniva_connect_wechat
